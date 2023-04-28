@@ -1,0 +1,6 @@
+{
+  "extends": "@leucotron-ui/ts-config/react.json",
+  "include": [
+    "src"
+  ]
+}
